@@ -50,39 +50,12 @@
 
 鸣谢以上开源项目及贡献者，排名不分先后。
 
-## :thinking:为什么选择独角数卡
-
-- 基于`Laravel`框架开发，优雅且带来安全稳定的系统架构。
-- 简洁优雅的`系统模板`，能自行上手客制化。
-- 支持`多国语言扩展`，能自行将独角数卡翻译到目标语言。
-- 代码*全开源*，所有信息均安全存储在您的服务器上。
-- `5K+`的用户的选择，众多资深使用者为你答疑解惑（不是一定）。
-
 ## :wink:在开始之前你需要知道
 
 - 本程序有一定的上手安装难度，请具备Linux服务器相关的基础知识，跟随Wiki一步一步安装基本不会出现问题。
 - 本程序不支持虚拟主机，未在Windows服务器上进行测试，请直接使用Linux服务器完成搭建。
 - 本程序*近支持*PHP8.0.2及以上。
 - 提问，没人回答？买别人的时间。
-
-## :speech_balloon:使用交流
-- 原作者的[Telegram群组](https://t.me/dujiaoka)
-- 原作者的[Telegram官方频道](https://t.me/dujiaoshuka)
-
-## :eye_speech_bubble:相关推荐
-- [两米商店 2MStore](https://buy.2m.pub) ，也可视为前台演示站。
-> 以下为原作者推荐
-> - （美国免备案vps，配置2核2G仅需`20.98$`≈`145RMB`一年/支持支付宝付款）[👉🏻点我直达](https://my.racknerd.com/aff.php?aff=2745&pid=681)
-
-## :open_mouth:快速预览
-【官方`Unicorn`模板首页】
-![首页](https://files.mdnice.com/user/39773/7669cf85-4e93-4572-a1b8-f11170c50b90.png)
-
-【`hyper`模板】  
-![](https://files.mdnice.com/user/39773/5f649d68-a1ce-4911-accb-2b7467e8fa4f.png)
-
-【`luna`模板】 
-![](https://files.mdnice.com/user/39773/10ffe97d-fb17-4f69-bb4e-e82f9befdc3d.png)
 
 ## :compass:相关教程
 > 以下为原作者提供
